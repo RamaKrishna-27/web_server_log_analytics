@@ -1,0 +1,33 @@
+============================================================
+WEB SERVER LOG ANALYTICS AND USER BEHAVIOR MONITORING
+============================================================
+
+Input CSV:
+/home/hdp/Downloads/web_server_logs.csv
+
+HDFS Input:
+/web_log_project/input/web_server_logs.csv
+
+Hive Query File:
+/home/hdp/web_log_project/hive/project_queries.hql
+
+Pig Script:
+/home/hdp/web_log_project/pig/clean_logs.pig
+
+Hive Results:
+/home/hdp/web_log_project/output/hive_results.txt
+
+Pig Results:
+/home/hdp/web_log_project/output/pig_results.txt
+
+Hadoop Configuration:
+/home/hdp/hadoop-3.3.6/etc/hadoop
+
+JobHistoryServer:
+localhost:10020
+
+Execution Date:
+Sun Oct  4 10:45:35 AM UTC 2026
+
+PROJECT EXECUTION COMPLETED SUCCESSFULLY
+============================================================
